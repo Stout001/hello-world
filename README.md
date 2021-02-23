@@ -1,2 +1,3 @@
 # hello-world
 My first Repo
+I've been programming since 1983 but stopped in the early 2000. I used to program Assembler, Pascal, VB, C, C++ some Java and of course HTTP with its ASP but have not touched anyting for about 15 years. I am rusty and now on a Mac (used PC in the early days) I am a bit confused using Terminal as cd.. dir and other common type ins does not get recognized in MacOS as it's pure DOS. Well well, have to start all over again but in the far distance I have my programming skills that says something else and when I'm now on it, it's kinda difficult to learn an old dog to sit as the commandos is there hidden in my brain.
